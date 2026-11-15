@@ -30,7 +30,7 @@ Save images in an `/screenshots` folder and embed them here.
 | ![Stress Test](screenshots/03_stress_test.jpg) | Net debt/EBITDA grid across EBITDA declines and capex levels, with the 2.0x downgrade-trigger zone highlighted. |
 | ![Debt Profile](screenshots/04_debt_profile.jpg) | Debt by instrument and maturity bucket, with the FY27–FY28 refinancing reading. |
 | ![Ratio Analysis](screenshots/05_ratios.jpg) | Ratio analysis for FY23–FY26: profitability, leverage, cash flow adequacy and liquidity. |
-| ![Cash Flow](screenshots/06_cash_flow.jpg) | Where the cash came from and where it went over FY23–FY26. |
+| ![Cash Flow](screenshots/06_cashflow.jpg) | Where the cash came from and where it went over FY23–FY26. |
 | ![Peer Comparison](screenshots/07_peers.jpg) | FY26 peer comparison of UltraTech, Ambuja Cements and Dalmia Bharat. |
 | ![Integrity Checks](screenshots/08_checks.jpg) | Integrity checks sheet showing all checks "OK". |
 
